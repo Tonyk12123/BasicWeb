@@ -1,0 +1,43 @@
+.All {
+    background-color: #f47a0a;
+    height: 100%;
+    padding-top: 0.5%;
+    padding-bottom: 2.5%;
+}
+.Title{
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+.Body {
+    background-color: white;
+    width: 30%;
+    height: 100%;
+    margin: auto;
+}
+
+.Element {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 2.5%;
+}
+
+.Input {
+    width: 100%;
+}
+
+.Select {
+    width: 95%;
+}
+
+.SubmitButton {
+    background-color: #f1cb9c;
+    border-color: #b9b9b9;
+    border-style: groove;
+    border-radius: 2px;
+    border-width: 1px;
+    font-weight: 400;
+    margin-top: 5%;
+    margin-bottom: 7.5%;
+}

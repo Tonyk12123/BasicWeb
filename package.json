@@ -1,0 +1,27 @@
+{
+  "name": "basicweb",
+  "version": "1.0.0",
+  "description": "This is example about BasicWeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonyk12123/BasicWeb.git"
+  },
+  "author": "Tonyk12123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonyk12123/BasicWeb/issues"
+  },
+  "homepage": "https://github.com/Tonyk12123/BasicWeb#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
